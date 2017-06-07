@@ -1,0 +1,95 @@
+/**************** 1280 ******************/
+@media only screen and (min-width: 1280px) {
+
+}
+/**************** 1280 ******************/
+@media only screen and (max-width: 1280px) {
+.home_upcomingevent_inner,.home_our_video_inner{width:100%;margin:0;}
+.upcoming_top_left{width:60%;margin:0;}
+.upcoming_top_left img{max-width: 100%;}
+.upcoming_top_right{width:35%;margin-left:5%;}    
+}
+/**************** 1280 ******************/
+@media only screen and (max-width: 1200px) {
+    .home_top_video_image,.upcoming_top_left{margin:0;width:100%;text-align: center;}
+    .home_top_video_content{width:100%;margin-top:10px;}
+    .home_video_top{padding: 0; }
+    .upcoming_top_right{width:100%;margin:10px 0 0 0}
+    
+}
+/**************** 1150 ******************/
+@media only screen and (max-width: 1150px) {
+
+}
+
+/**************** 1024 ******************/
+@media only screen and (max-width: 1000px) {
+.header_second .col-lg-4,.header_second .col-lg-8{width:50%;}
+.banner_bottom_menu ul li{width:24%;padding: 25px 10px}
+.banner_bottom_menu ul{width:100%;float: left;}
+.banner_bottom_menu ul li a{width:100%;}
+    .our_activites .container,.header_second .container, .banner_menu .container,footer .container{width:100%;}
+    .our_activites .container .col-lg-3{width:50%;margin-bottom: 50px;}
+    .our_video_event_outer .col-lg-6{width:100%;}
+    .press_release_lists .col-lg-6{width:50%;}
+    .upcoming_event_bottom .col-lg-4,footer .col-lg-3{width: 25%;}
+   .header_menu .navbar-collapse{position: absolute;background: #fff;top:50px;right:0;z-index: 2;width:200px;}
+   .header_second .navbar-nav li a.nav-link{color:#333;}
+     .header_second .navbar-nav li{border-bottom: 1px solid #ddd;padding: 10px 10px}
+       .header_second .navbar-nav li.active a.nav-link{color:#c71a26 }
+}
+/**************** 980 ******************/
+@media only screen and (max-width: 980px) {
+.become_part .become_volunteer,.become_part .donateforcause{height: auto;}
+
+}
+/**************** 900 ******************/
+@media only screen and (max-width: 900px) {
+
+}
+/**************** 800 ******************/
+@media only screen and (max-width: 800px) {
+
+
+}
+/**************** 764 ******************/
+@media only screen and (max-width: 764px) {
+footer .col-lg-3{width: 50%;}
+.upcoming_event_bottom .col-lg-4, footer .col-lg-3{width:33%;}
+.banner_bottom_menu ul li a{font-size: 16px;}
+
+
+}
+@media only screen and (max-width: 680px) {
+footer .col-lg-3{width:50%;}
+.become_part .donateforcause a, .become_part .become_volunteer a{font-size: 19px;}
+.inner_title h2{font-size: 30px}
+}
+/**************** 640 ******************/
+@media only screen and (max-width: 640px) {
+
+
+}
+/**************** 600 ******************/
+@media only screen and (max-width: 600px) {
+
+}
+@media only screen and (max-width: 540px) {
+    footer .col-lg-3,.our_activites .container .col-lg-3{width:100%;}
+    .banner_menu{margin:0;}
+
+
+}
+/****************480 ******************/
+@media only screen and (max-width: 480px) {
+
+}
+
+/**************** 360 ******************/
+@media only screen and (max-width: 360px) {
+
+}
+/**************** 320 ******************/
+@media only screen and (max-width: 320px) {
+
+}
